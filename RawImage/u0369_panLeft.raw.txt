@@ -1,0 +1,2 @@
+Width:  1023
+Height: 942
